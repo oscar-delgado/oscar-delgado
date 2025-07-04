@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👨‍💻
 
-Hi there! 👋 I'm a **Software Engineer** with a strong focus on both **Frontend** and **Backend** development. My journey in the tech world has allowed me to work on a wide range of projects, from building seamless user interfaces to designing robust backend systems.
+Hi there! 👋 I'm a software developer with a 360 degrees approach. My journey in the tech world has allowed me to work on a wide range of projects, from building seamless user interfaces to designing robust backend systems, while keeping an eye on infrastructure.
 
 ## 🚀 Technologies & Skills
 
@@ -30,13 +30,13 @@ Hi there! 👋 I'm a **Software Engineer** with a strong focus on both **Fronten
 
   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 
-<!-- 
 ### DevOps & Infrastructure
 - **Version Control**: Git, GitHub, GitLab
-- **CI/CD**: Jenkins, GitHub Actions, CircleCI
+- **CI/CD**: GitHub Actions, Jenkins, ArgoCD
 - **Containerization**: Docker, Kubernetes
-- **Cloud**: AWS, GCP, Azure
+- **Cloud**: Terraform, AWS
 
+<!-- 
 ### Tools & Practices
 - **Testing**: Jest, Mocha, Cypress, React Testing Library
 - **Agile Methodologies**: Scrum, Kanban
